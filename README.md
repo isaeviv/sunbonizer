@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      sunbonizer:
-       github: your-github-user/sunbonizer
+       github: isaeviv/sunbonizer
    ```
 
 2. Run `shards install`
@@ -19,12 +19,12 @@ TODO: Write a description here
 ```crystal
 require "sunbonizer"
 ```
+```crystal
+Sunbonizer.sunbonize("В тюрьму хочешь? Сядешь, соседи сдадут.")
+'в==тюрьму х0чэшь? сядэшь,, с0сэди--сдадут'
+```
 
 TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
 
 ## Contributing
 
