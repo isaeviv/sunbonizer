@@ -1,7 +1,5 @@
 # sunbonizer
 
-TODO: Write a description here
-
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
@@ -21,10 +19,8 @@ require "sunbonizer"
 ```
 ```crystal
 Sunbonizer.sunbonize("В тюрьму хочешь? Сядешь, соседи сдадут.")
-'в==тюрьму х0чэшь? сядэшь,, с0сэди--сдадут'
+# 'в==тюрьму х0чэшь? сядэшь,, с0сэди--сдадут'
 ```
-
-TODO: Write usage instructions here
 
 ## Contributing
 
