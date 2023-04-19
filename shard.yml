@@ -1,0 +1,9 @@
+name: sunbonizer
+version: 0.1.0
+
+authors:
+  - isaeviv <isaeviv@vivaldi.net>
+
+crystal: 1.7.3
+
+license: MIT
